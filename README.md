@@ -42,6 +42,7 @@
 #### 8. Создал ветку для отчёта.
 ![Screenshot_8.png](screens/Screenshot_8.png)
 
+#### 9. История операций.
 ![Screenshot_10.png](screens/Screenshot_10.png)
 ![Screenshot_11.png](screens/Screenshot_11.png)
 
