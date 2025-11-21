@@ -13,3 +13,6 @@
 ---
 
 ### Ход работы
+
+#### 1. Создал файл на GitHub.
+![Screenshot_2.png](screens/Screenshot_2.png)
